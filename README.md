@@ -16,6 +16,7 @@ To progressively build my skills in data science, from Python fundamentals to de
 - `streamlit_basics/` → Experiments and mini-apps built with Streamlit  
 - `python_api_development/` → Fundamentals of API design (routes, serialization/deserialization, schema validation, and models) to build a backend clone of a social media app using FastAPI
 - `ml_playground/` → Practice notebooks and experimental projects from various tutorials and courses 
+- `llm_engineering_fundamentals/` → from text processing and embeddings to RAG systems.
 
 ## 🧩 Note
 This repository mainly includes **course reproductions** and **practice notebooks**.  
