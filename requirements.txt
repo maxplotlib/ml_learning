@@ -11,6 +11,7 @@ transformers==4.57.1
 ### Data Visualization
 matplotlib==3.10.7
 seaborn==0.13.2
+bertviz==1.4.1
 
 ### Deep Learning
 tensorflow==2.20.0

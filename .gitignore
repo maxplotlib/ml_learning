@@ -104,3 +104,8 @@ pyvenv.cfg
 bin/
 lib/
 share/
+
+#########################################
+# 🤖 Downloaded LLMs
+#########################################
+llm_engineering_fundamentals/downloaded_llms/
